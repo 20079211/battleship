@@ -10,7 +10,7 @@ public class Main
     System.out.println("Welcome to Battleship!\n");
     boolean addNew = true;
     System.out.println(b);
-/*
+
     while(addNew)
     {
       System.out.println("Type \"a\" to add new ship, \"b\" to see the board, \"p\" to play or \"q\" to quit.");
@@ -85,6 +85,6 @@ public class Main
         System.out.println("\n" + b + "\n");
     }
     System.out.println("Game over!");
-    */
+    
   }
 }
